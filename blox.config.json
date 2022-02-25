@@ -1,1 +1,1 @@
-{"name":"demoouii","type":2,"source":{"https":"https://github.com/Digambaran/_post_demoouii","ssh":"git@github.com:Digambaran/_post_demoouii.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
+{"name":"demoouiiOne","type":2,"source":{"https":"https://github.com/Digambaran/_post_demoouiiOne","ssh":"git@github.com:Digambaran/_post_demoouiiOne.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
